@@ -1,3 +1,11 @@
+# NOTE: NOT A FORK
+
+This repo is an archive of SPECULATIVE design work examining how certain
+components of the `wasm-pack` codebase could be refactored to use a context
+struct. This repo is not supported, should not be used, and is only here
+for archiving purposes. Refer to the official wasm-pack repo if you would
+like to learn more about wasm-pack.
+
 # 📦✨  wasm-pack
 > pack up the wasm and publish it to npm!
 
